@@ -1,0 +1,36 @@
+Variables:
+Son como un frasquito donde se puede guardar un dato o un valor. En programación se escriben como palabras que las identifican. 
+Ejemplo: 
+Variable 'perro =  firulais'
+En la variable 'perro' esta guardado el valor 'firulais'.
+Dependiendo del lenguaje, se puede especificar el tipo de dato, ya sea un numero. una letra o una oración.
+
+Strings:
+Son conjuntos de letras que se pueden guardar en una variable. O sea, palabras o oraciones.
+Ejemplo: 
+var oracion =  'Me gustan los trenes'
+
+Funciones:
+Son como mini programas que van dentro de un programa mas grande, están hechas para ser reutilizables.
+Un ejemplo seria una función que suma o multiplica, la cual puede ser referenciada
+ en cualquier parte del programa multiples veces sin cambiar su codigo.
+
+Los argumentos de una funcion son datos que se pueden insertar para que la función los procese. 
+Un ejemplo, en una función de suma, los números a sumar serían los argumentos que la función requiere para funcionar.
+function sumaEjemplo(numero1, numero2){
+    //Código a ser ejecutado
+}
+
+
+El return de una función seria el valor o valores que la función puede devolver 
+despues de procesar los datos o ejecutar el código correspondiente.
+El return o devolucion de una función que suma sería el resultado de la suma.
+El return también es el unico camino de salida hacia el resto del programa que tienen los datos que resultan de una función,
+ya que lo que ocurre dentro de una función esta encapsulado en si misma, es decir que no puede afectar al resto del programa.
+
+Declaraciones if:
+
+Son pequeños programas que hacen una pregunta que siempre tiene un resultado de sí o no. 
+Su trabajo es validar que un programa resulte bien o hacer que el programa tome el camino 
+correspondiente dependiendo de las decisiones que tome el usuario.
+Se pueden pensar como una canilla o llave de paso de una cañería de gas o agua, que permite(o no) el paso del agua a una seccion de las cañerias.
