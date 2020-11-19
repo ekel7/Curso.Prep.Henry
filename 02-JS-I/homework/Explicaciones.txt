@@ -34,3 +34,7 @@ Son pequeños programas que hacen una pregunta que siempre tiene un resultado de
 Su trabajo es validar que un programa resulte bien o hacer que el programa tome el camino 
 correspondiente dependiendo de las decisiones que tome el usuario.
 Se pueden pensar como una canilla o llave de paso de una cañería de gas o agua, que permite(o no) el paso del agua a una seccion de las cañerias.
+
+Valores booleanos:
+Un valor booleano es un valor que solo puede ser verdadero o falso. 0 o 1.
+Es como una respuesta de Si o No, nada más.

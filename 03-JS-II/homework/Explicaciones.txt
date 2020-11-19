@@ -1,0 +1,40 @@
+Explicaciones.txt
+
+Ciclo for:
+Es un programita que hace que otro programa se repita una cantidad de veces fija, es 
+decir que el que configura el programa decide cuantas veces se va a repetir. 
+Un ejemplo seria, decir 'Ahora voy a patear esta pelota contra la pared diez veces', y entonces
+vos repetis la accion diez veces.
+
+AND:
+Este operador logico es como una condicion doble para hacer algo. Ejemplo:
+Estás en último año de secundaria, y tu mamá te dice que te va a comprar un Ryzen 5950x(copada la mami),
+si, y solo si, se cumplen las dos condiciones: 
+
+-Que apruebes todas las materias todos los trimestres con 8 o más
+-Que aprendas a tocar la Paganiniana en Violín antes de fin de año
+
+Entonces, ahí tu mamá estaría usando un AND, que implica que si no se cumplen ambas condiciones, la declaración se vuelve falsa.
+
+
+OR:
+Este operador lógico pone varias condiciones para hacer algo. 
+Pero solo es necesario que se cumpla una de ellas para que se pueda continuar.
+Ejemplo:
+Tu novia te dice que te podes comprar una Switch si cumplis UNA de las siguientes condiciones:
+-Que bajes 10kg en tres meses
+ ó
+-Que pintes todas las habitaciones de la casa de un color que ella elija
+
+Entonces, ahi se estaria implementando un condicional optativo o algo
+asi, o sea que si se cumple una condicion, o todas, la declaración es verdadera.
+
+NOT:
+Este operador logico es como una especie de filtro negativo para que se ejecute el codigo.
+Ejemplo:
+Los que no entregaron el trabajo practico integrador para fin de año en el colegio se llevan la materia.
+Entonces: 
+if( !Trabajo practico entregado){
+    Materia aprobada = true;
+}
+El NOT significaria lo contrario a la condicion. O sea que la declaracion es verdadera solo si la condicion no se cumple.
