@@ -1,0 +1,40 @@
+Explicaciones.txt
+
+Objetos:
+Bueno, si viste mi explicacion de las variables vas a entender esto...
+Si una variable es un papelito o un frasquito que contiene un dato o varios datos sueltos, un objeto seria como un
+papel donde se escriben datos pero en parejas, y esas parejas se llaman Key-Value.
+Un ejemplo: El DNI de una persona podria ser un objeto, porque su estructura es similar:
+Pepito Pancracio Álvarez
+Fecha Nac: 01/01/00
+Domicilio: Pje. El Pollo 123
+Nacionalidad: Argentina
+Etc: Etc
+
+Se entiende? Un objeto es como una variable pero con la habilidad de guardar muchos valores clasificados por claves.
+
+Propiedades:
+
+Son los valores que se incluyen dentro del objeto. Pueden ser acciones que el objeto puede hacer(metodos), listas de informacion(arrays),
+o datos sobre el objeto.
+
+Métodos
+
+Son acciones asociadas a un objeto. Les podemos añadir las que queramos.
+Por ejemplo: si hago un objeto camión tiene que tener los metodos: acelerar(), frenar(),virar(), marchaAtras();
+
+Bucle for...in
+Es una utilidad de JavaScript que sirve para recorrer todos los pares de Clave-Valor en un objeto u objetos.
+Seria util en la situacion de que yo quisiera una lista de todos los datos que contiene un objeto, con el 
+for..in podria listarlas todas.
+
+Notación de puntos vs notación de corchetes
+
+La notación de puntos es la mas facil y rapida de usar y leer, pero a veces es necesario usar la notación de corchetes,
+por ejemplo cuando una propiedad tiene caracteres especiales, o puntos. Tambien es bueno usar notacion de corchetes
+cuando hay que acceder a propiedades de otras propiedades.
+
+Cuando se utiliza notación de corchetes, siempre se debe usar una cadena o numero, o una variable que apunte a una cadena o número.
+La notación de puntos no tiene esta limitación.
+
+
