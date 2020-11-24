@@ -1,0 +1,23 @@
+Explicaciones.txt
+
+Prototype:
+Prototype es el mecanismo que utiliza javascript para hacer 
+que los objetos hijos hereden metodos y propiedades de sus objetos padre. Cómo? 
+Se les otorga acceso a las propiedades y metodos de la clase origen(objeto padre) 
+a los objetos hijos, de esta manera solo debemos establecer un método una vez y luego todos los
+objetos de esa clase tienen acceso a esos metodos. 
+Cuando pedimos a un objeto una propiedad que no tiene, la busca en su prototipo. 
+Así, un prototipo es otro objeto que se utiliza como una fuente de propiedades alternativa.
+
+Tiene la utilidad de ahorrar recursos y tiempo a la hora de escribir código.
+
+Un ejemplo sería que mi papá tiene la habilidad de usar su moto. Y yo al ser su hijo también tengo acceso a esa moto.
+Así como sus otros hijos.
+
+Clases:
+
+Las clases son como plantillas para crear objetos. 
+Con una clase haces una base para crear varios objetos parecidos entre sí.
+
+Un ejemplo sería comparar a una clase con un molde para hacer galletitas.
+Con ese molde se pueden hacer muchas galletitas con forma igual pero con diferencias en su interior.

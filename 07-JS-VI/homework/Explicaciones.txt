@@ -1,0 +1,10 @@
+Explicaciones.txt
+
+Callbacks:
+
+Bien, sabemos que una función es un fragmento de codigo que tiene acción o conjunto de acciones  en ella.
+Un callback sería la posibilidad de añadir una funcion dentro de otra.
+Un ejemplo sería que vos tuvieses la función llamarPerro() que lo que hace es llamar a tu perro San Bernardo.
+Ahora, supongamos que tenes una funcion aparte que se llama ataque() que lo que hace es ordenar a tu perro que ataque al objetivo mas cercano.
+Entonces, que pasaria si queres hacer las dos cosas a la vez? Con un callback sería posible, haciendo llamarPerro(ataque), estarías
+usando las dos funciones a la vez, llamando a tu perro y a la vez ordenando un ataque.
