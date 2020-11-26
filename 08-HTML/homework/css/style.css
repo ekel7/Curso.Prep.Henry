@@ -1,0 +1,33 @@
+            h1{
+                color:gold;
+            }
+            
+            img{
+                width:400px;
+
+            }
+            .thirdDiv{
+                height:600px;
+                background-color: lemonchiffon;
+                padding:50px;
+                border: 2px solid rgb(10, 7, 7);
+            }
+            #spanId{
+                margin:50px;
+
+            }
+            html{
+                background-image: url("https://i.pinimg.com/originals/d0/99/fb/d099fbe1334992232264f479a516983e.jpg");
+                background-size: cover;
+                color: white;
+                font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+                font-weight: 1000;
+                /* //flexbox xd */
+                display: flex;
+                justify-content: center;
+
+            }
+           
+            div{
+                border: 3px solid gold;  
+            }
