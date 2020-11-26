@@ -37,6 +37,7 @@ body{
     flex-direction: column;
     flex-basis: 100%;
     flex: 1;
+    margin:15px;
   }
 .envolvedorDePagina{
     display:flex;
